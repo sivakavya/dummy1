@@ -6,4 +6,7 @@ kheer
 biryani
 pasta
 
-thanks
+beans
+pizza
+
+thanks :)
